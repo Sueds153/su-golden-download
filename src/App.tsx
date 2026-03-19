@@ -7,7 +7,7 @@ import {
   Zap, 
   TrendingUp, 
   Briefcase, 
-  News,
+  Newspaper,
   ChevronRight,
   CheckCircle2,
   Menu,
